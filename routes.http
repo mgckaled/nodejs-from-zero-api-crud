@@ -1,0 +1,29 @@
+POST http://localhost:3333/videos
+Content-Type: application/json
+Accept-Language: pt-BR, en
+
+{
+    "title": "Video React-Native",
+    "description": "Esse é o terceiro video",
+    "duration": 300
+}
+
+###
+
+GET http://localhost:3333/videos
+
+###
+
+PUT http://localhost:3333/videos/33f9320b-5f71-41f8-9e51-e67b13e8b1f2
+Content-Type: application/json
+Accept-Language: pt-BR, en
+
+{
+    "title": "Video atualizado do Node",
+    "description": "Esse é o primeiro video",
+    "duration": 180
+}
+
+###
+
+DELETE http://localhost:3333/videos/b169dfe2-934c-466d-8e98-ed6879b2b39c
