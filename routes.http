@@ -3,8 +3,8 @@ Content-Type: application/json
 
 {
     "title": "Video React-Native",
-    "description": "Esse é o terceiro video",
-    "duration": 300
+    "description": "Esse é o quarto video",
+    "duration": 400
 }
 
 ###

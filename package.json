@@ -4,6 +4,9 @@
   "description": "Mini projeto de um sistema CRUD em Node.js",
   "main": "server.js",
   "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
   "scripts": {
     "start": "node server.js",
     "dev": "node --watch --no-warnings server.js"
@@ -19,3 +22,4 @@
     "dotenv": "^16.3.1"
   }
 }
+
