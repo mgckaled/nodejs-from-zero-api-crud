@@ -46,7 +46,9 @@ Free Serverless Postgres - [Neon](https://neon.tech/)
 
 ### Deploy
 
-Indisponível
+Deploy realizado na plataforma [Render](https://render.com/).
+
+<>
 
 ### Código Comentado
 

@@ -1,6 +1,5 @@
 POST http://localhost:3333/videos
 Content-Type: application/json
-Accept-Language: pt-BR, en
 
 {
     "title": "Video React-Native",
@@ -16,7 +15,6 @@ GET http://localhost:3333/videos
 
 PUT http://localhost:3333/videos/33f9320b-5f71-41f8-9e51-e67b13e8b1f2
 Content-Type: application/json
-Accept-Language: pt-BR, en
 
 {
     "title": "Video atualizado do Node",
